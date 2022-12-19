@@ -9,3 +9,4 @@ virtual_keyboard=yes
 wallpaper=https://renzlee.github.io/kellyjakekimpool/rm_wallpaper.png
 wake_on_lan=yes
 additional_components=uefi.zip
+kiosk_config=https://renzlee.github.io/kellyjakekimpool/apple.txt
