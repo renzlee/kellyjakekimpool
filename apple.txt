@@ -1,1 +1,11 @@
-test
+connection=wired
+dhcp=yes
+browser=chrome
+homepage_append=mac
+homepage=https://renzmichaellee.com
+disable_navigation_bar=yes
+persistence=full
+virtual_keyboard=yes
+wallpaper=https://renzlee.github.io/kellyjakekimpool/rm_wallpaper.png
+wake_on_lan=yes
+additional_components=uefi.zip
