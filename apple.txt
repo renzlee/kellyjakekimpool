@@ -1,5 +1,8 @@
-connection=wired
+connection=wifi
 dhcp=yes
+ssid_name=LEE_B4_L4 1
+wifi_encryption=wpa
+wpa_password=iloveyou
 browser=chrome
 homepage_append=mac
 homepage=https://renzmichaellee.com/renz/E-Wallet/beta
